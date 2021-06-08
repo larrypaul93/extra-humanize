@@ -1,5 +1,5 @@
 {
-  "name": "@extra/humanize",
+  "name": "extra/humanize",
   "version": "4.2.1",
   "description": "A plugin for playwright & puppeteer to humanize inputs (mouse movements)",
   "homepage": "https://github.com/berstend/puppeteer-extra/tree/master/packages/plugin-humanize",
